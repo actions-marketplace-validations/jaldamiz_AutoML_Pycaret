@@ -1,6 +1,6 @@
-name: "PyCaret AutoML Git Action"
+name: "PyCaret AutoML Git Action Test"
 description: "A simple example of AutoML created using PyCaret 2.0"
-author: "Moez Ali"
+author: "Juan Aldamiz"
 inputs:
   DATASET:
     description: "Dataset for Training"
